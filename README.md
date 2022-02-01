@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @ChTalhaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ChTalhaa/ChTalhaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there I'm Muhammad Talha👋
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
+
+### Developer.
+
+
+### Personal Stuff:
+- 💻 I'm a <b>React </b> Developer.
+- 💬 Ask me about Web.
+- ✨ I'm learning Advance Frontend Concepts.
+- 🎮 I love to play video games (Fifa,Pubg).
+
+### Languages & Tools
+
+<img align="left" alt="React.JS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
+<img align="left" alt="Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<br>
+<br>
+
