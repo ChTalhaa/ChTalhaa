@@ -14,7 +14,7 @@
 
 ### Languages & Tools
 
-<img align="left" alt="React.JS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
+<img align="left" alt="React.JS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg">
 <img align="left" alt="Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <br>
 <br>
