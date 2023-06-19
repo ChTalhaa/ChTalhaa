@@ -7,7 +7,7 @@
 
 
 ### Personal Stuff:
-- 💻 I'm a <b>React </b> Developer.
+- 💻 I'm a <b>Angular </b> Developer.
 - 💬 Ask me about Web.
 - ✨ I'm learning Advance Frontend Concepts.
 - 🎮 I love to play video games (Fifa,Pubg).
